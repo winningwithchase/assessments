@@ -16,6 +16,10 @@ This folder should contain a README with instructions on how to run it.
 
 Any supplemental documentation on your design and process are welcome!
 
+## Timeline
+
+Please submit your code by 08/09/21.
+
 ## Making requests against the API
 
 ### Documentation
