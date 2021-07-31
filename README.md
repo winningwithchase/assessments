@@ -10,10 +10,11 @@ The API is provided at `http://example-api.winningwithchase.com` and [the API do
 
 ## Deliverable
 
-Any of the following are acceptable:
+- Compressed folder containing your code; i.e., `.zip` file
 
-- Compressed folder containing your code; i.e., `.zip` file, with instructions on how to run it.
-- Link to a website you have deployed.
+This folder should contain a README with instructions on how to run it.
+
+Any supplemental documentation on your design and process are welcome!
 
 ## Making requests against the API
 
@@ -48,3 +49,4 @@ If your backend skills are stronger than your frontend feel free to focus more o
 ### Backend
 
 - Build the two routes GET/POST /interview (no DB necessary, in memory is fine)
+- Add a DELETE route for deleting interviews by `interview_id` (bonus if you add the DELETE button to the frontend)
