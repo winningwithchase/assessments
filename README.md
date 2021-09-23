@@ -14,11 +14,9 @@ The API is provided at `http://example-api.winningwithchase.com` and [the API do
 
 This folder should contain a README with instructions on how to run it.
 
+Please do not include `/node_modules`. Put all your packages in `package.json` and we will install them ourselves.
+
 Any supplemental documentation on your design and process are welcome!
-
-## Timeline
-
-Please submit your code by 08/09/21.
 
 ## Making requests against the API
 
